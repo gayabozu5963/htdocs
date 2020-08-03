@@ -1,0 +1,132 @@
+/* リセットCSS */
+body {
+  font-size: 14px;
+  color: #333;
+  margin: 0 auto;
+}
+h1,h2,h3,h4,h5,h6,p {
+  padding: 10px 0;
+  margin: 0;
+}
+
+ul,li {
+  padding: 0;
+  margin: 0;
+}
+
+* {
+  font-family: cursive;
+}
+
+.user {
+  height:50px;
+  width:100%;
+  background-color: #ffffe0;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  position: relative;
+  color: #158b2b;
+  font-size: 30px;
+  /* padding: 10px 0; */
+  /* text-align: center; */
+  /* margin: 1.5em 0; */
+}
+h1:before {
+  content: "";
+  position: absolute;
+  top: -4px;
+  left: 15%;
+  width: 150px;
+  height: 58px;
+  border-radius: 50%;
+  border: 5px solid #a6ddb0;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+}
+
+header {
+  height: 70px;
+  background-color: #ffffe0;
+  padding: 10px 0;
+  display: flex;
+}
+
+.heading {
+  width: 50%;
+  margin-left: 30px;
+}
+
+.navbar {
+  width: 50%;
+  padding: 20px;
+}
+
+.nav-lists {
+  font-size: 18px;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+li{
+  list-style: none;
+}
+
+.contents {
+  font-size: 20px;
+  font-weight: bold;
+  height: 70px;
+  background-color: #f5deb3;
+  padding: 10px 0;
+  display: flex;
+  
+}
+
+.upper-content {
+  width: 100%;
+  padding: 20px;
+ 
+}
+
+.info-lists {
+  margin: 0 50px;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+.first-view {
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+footer {
+  font-size: 14px;
+  height: 40px;
+  background-color: #f5deb3;
+  padding: 10px 0;
+  display: flex;
+  
+}
+
+.rule {
+  width: 100%;
+  padding: 20px;
+ 
+}
+
+.terms-lists {
+  margin: 0 50px;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+}
