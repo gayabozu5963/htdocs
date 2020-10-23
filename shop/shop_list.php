@@ -24,7 +24,7 @@ else
 <html>
 <head>
 <meta charset="UTF-8">
-<title>ろくまる農園</title>
+<title>じげもん農園</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -48,7 +48,7 @@ $dbh = null;
 print 
 '<header>
   <div class="heading">
-    <h1 class="title">ろくまる農園</h1>
+    <h1 class="title">じげもん農園</h1>
   </div>
   <div class="navbar">
     <ul class="nav-lists">
@@ -71,7 +71,7 @@ print
 
 print
 '<div class="first-view">
-  <img src="images/hero.jpg" alt="トップ画面" class="top-image">
+  <img src="images/お野菜.jpg" alt="トップ画面" class="top-image">
 </div>';
 
 print
