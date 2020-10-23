@@ -1,9 +1,10 @@
 # 個人アプリ　じげもん農園
 
-[トップページ]!<img width="1440" alt="スクリーンショット 2020-10-23 11 48 25" src="https://user-images.githubusercontent.com/67771439/96950614-aae46480-1525-11eb-838d-66d6b2a1c677.png"> 
-!<img width="1358" alt="スクリーンショット 2020-10-23 11 49 51" src="https://user-images.githubusercontent.com/67771439/96950707-debf8a00-1525-11eb-85b5-5614b0467ee8.png">
+[トップページ]  <img width="1440" alt="スクリーンショット 2020-10-23 11 48 25" src="https://user-images.githubusercontent.com/67771439/96950614-aae46480-1525-11eb-838d-66d6b2a1c677.png"> 
+[商品紹介]  
+<img width="1358" alt="スクリーンショット 2020-10-23 11 49 51" src="https://user-images.githubusercontent.com/67771439/96950707-debf8a00-1525-11eb-85b5-5614b0467ee8.png">  
 
-[買い物カゴ]!<img width="887" alt="スクリーンショット 2020-10-23 11 37 40" src="https://user-images.githubusercontent.com/67771439/96949985-2b09ca80-1524-11eb-9fce-8e2e044ecdcc.png">  
+[買い物カゴ]  <img width="887" alt="スクリーンショット 2020-10-23 11 37 40" src="https://user-images.githubusercontent.com/67771439/96949985-2b09ca80-1524-11eb-9fce-8e2e044ecdcc.png">  
 
 
 # 概要
