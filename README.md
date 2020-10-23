@@ -1,4 +1,5 @@
 # 個人アプリ　じげもん農園
+<img width="887" alt="スクリーンショット 2020-10-23 11 37 40" src="https://user-images.githubusercontent.com/67771439/96949985-2b09ca80-1524-11eb-9fce-8e2e044ecdcc.png">
 [トップページ]
 ("https://user-images.githubusercontent.com/67771439/96949465-e6316400-1522-11eb-9930-753c82b6c579.png")  
 [買い物カゴ]
