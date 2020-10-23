@@ -14,8 +14,7 @@
  
 # DEMO(gifで動画や写真を貼って、ビューのイメージを掴んでもらいます)
 ![トップページ]
-(
-img width="1436" alt="スクリーンショット 2020-10-23 11 28 35" src="https://user-images.githubusercontent.com/67771439/96949465-e6316400-1522-11eb-9930-753c82b6c579.png")
+("https://user-images.githubusercontent.com/67771439/96949465-e6316400-1522-11eb-9930-753c82b6c579.png")
 
  
 # 実装完了の機能
